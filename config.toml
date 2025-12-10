@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Anto Mathew"
 theme = "PaperMod"
 paginate = 5
+pagerSize = 10
 
 # PaperMod params
 [params]
