@@ -1,8 +1,10 @@
 ---
-title: "Senior Software Engineer – EQS Group"
+title: "Senior Software Engineer - PHP"
 company: "EQS Group"
 location: "Kerala, India"
-date: "Oct 2018 - Present"
+date: 2018-10-01
+endDate: 2025-01-01
+tags: []
 ---
 
 - Lead development of enterprise PHP/Symfony applications for **50,000+ users**.

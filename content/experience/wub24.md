@@ -1,8 +1,10 @@
 ---
-title: "PHP / Magento Developer – WUB24 International"
+title: "PHP / Magento Developer"
 company: "WUB24 International"
 location: "Germany (Remote)"
-date: "Jan 2014 - Sep 2014"
+date: 2014-01-01
+endDate: 2014-09-01
+tags: []
 ---
 
 - Built Magento modules & e-commerce features for global clients.

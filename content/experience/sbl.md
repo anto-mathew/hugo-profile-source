@@ -1,8 +1,9 @@
 ---
-title: "Software Engineer – SBL Knowledge Services"
+title: "Software Engineer – PHP"
 company: "SBL Knowledge Services"
-location: "Infopark, Kerala"
-date: "Feb 2016 - Sep 2018"
+location: "Infopark, Kerala, India"
+date: 2016-02-01
+endDate: 2018-09-01
 ---
 
 - Developed backend systems using PHP & CodeIgniter.

@@ -1,6 +1,7 @@
 ---
 title: "About Me"
-disableShare: true
+date: 2024-01-01
+tags: []
 ---
 
 I am **Anto Mathew**, a Senior Software Engineer with over **14 years of professional experience** building high-impact web applications, scalable backend systems, and modern frontend architectures.
