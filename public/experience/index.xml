@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on Anto Mathew - Portfolio</title>
+    <link>https://anto-mathew.github.io/experience/</link>
+    <description>Recent content in Experiences on Anto Mathew - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://anto-mathew.github.io/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Senior Software Engineer - PHP</title>
+      <link>https://anto-mathew.github.io/experience/eqs/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://anto-mathew.github.io/experience/eqs/</guid>
+      <description>Lead development of enterprise PHP/Symfony applications for 50,000+ users. Built React &amp;amp; Svelte applications using TypeScript with optimized performance. Architected REST APIs and microservices using Symfony API Platform. Reduced deployment time by 35% by implementing microservice architecture. Designed CI/CD pipelines (GitLab CI), reducing release time from 2 weeks to 3 days. Containerized systems using Docker ensuring 40% fewer environment issues. Implemented Kubernetes-based infrastructure achieving 99.7% uptime. Built automation tools using Node.</description>
+    </item>
+    
+    <item>
+      <title>Software Engineer – PHP</title>
+      <link>https://anto-mathew.github.io/experience/sbl/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://anto-mathew.github.io/experience/sbl/</guid>
+      <description> Developed backend systems using PHP &amp;amp; CodeIgniter. Designed modular OOP-based components and reusable services. Improved page load time by 30% via caching &amp;amp; SQL optimization. Integrated REST APIs with frontend systems. Contributed to Agile development cycles (sprints, stand-ups, retrospectives). </description>
+    </item>
+    
+    <item>
+      <title>PHP Project Manager &amp; Developer</title>
+      <link>https://anto-mathew.github.io/experience/unitybees/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anto-mathew.github.io/experience/unitybees/</guid>
+      <description> Managed 10+ client projects end-to-end. Built custom CMS systems in Core PHP. Implemented Git workflows improving delivery pipeline by 50% fewer conflicts. Automated deployment &amp;amp; testing workflows improving timelines by 25%. Mentored development team &amp;amp; handled client communication. </description>
+    </item>
+    
+    <item>
+      <title>PHP / Magento Developer</title>
+      <link>https://anto-mathew.github.io/experience/wub24/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://anto-mathew.github.io/experience/wub24/</guid>
+      <description> Built Magento modules &amp;amp; e-commerce features for global clients. Integrated payment gateways (PayPal, Stripe, Authorize.net). Improved catalog &amp;amp; DB performance by 40%. Implemented responsive UI &amp;amp; SEO improving conversions by 20%. Debugged and optimized high-traffic platforms processing 10,000+ monthly transactions. </description>
+    </item>
+    
+    <item>
+      <title>Software Programmer (NIC Project)</title>
+      <link>https://anto-mathew.github.io/experience/highcourt/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://anto-mathew.github.io/experience/highcourt/</guid>
+      <description> Built internal judicial workflow automation systems. Developed case management, document tracking &amp;amp; reporting modules. Reduced manual workload by 60% using automation. Ensured security &amp;amp; compliance with government standards. Provided support, documentation &amp;amp; user training. </description>
+    </item>
+    
+  </channel>
+</rss>

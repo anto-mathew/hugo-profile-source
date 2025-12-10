@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>migration on Anto Mathew - Portfolio</title>
+    <link>https://anto-mathew.github.io/tags/migration/</link>
+    <description>Recent content in migration on Anto Mathew - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://anto-mathew.github.io/tags/migration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Node.js CLI Tool for Content Migration</title>
+      <link>https://anto-mathew.github.io/projects/node-cli-migration-tool/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://anto-mathew.github.io/projects/node-cli-migration-tool/</guid>
+      <description>Overview A powerful Node.js-based CLI tool for automated content migration between legacy CMS systems.
+Capabilities Folder traversal and file extraction JSON → TypeScript model auto-generation HTML cleanup and sanitization Bulk migration with progress tracking Error logging and retry functionality Responsibilities Designed CLI structure using Commander.js Implemented file system utilities Automated Blade/HTML cleanup functionality Added support for dynamic component generation Tech Stack Node.js, Commander.js, TypeScript, FS module.</description>
+    </item>
+    
+  </channel>
+</rss>

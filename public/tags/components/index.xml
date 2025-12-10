@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>components on Anto Mathew - Portfolio</title>
+    <link>https://anto-mathew.github.io/tags/components/</link>
+    <description>Recent content in components on Anto Mathew - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://anto-mathew.github.io/tags/components/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Svelte  Application</title>
+      <link>https://anto-mathew.github.io/projects/svelte-application/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://anto-mathew.github.io/projects/svelte-application/</guid>
+      <description>Overview A lightweight analytics dashboard built using Svelte, focusing on fast rendering and dynamic components.
+Features Dynamic components with #each and conditional rendering Locale-based UI switching (tc, sc, en) Custom tooltip implementation without Bootstrap Component-level TypeScript validation API integration for charts and metrics Responsibilities Architecture of component structure Implemented reusable components with props Added locale switching logic Created tooltip system Worked with dynamic lists and API data Tech Stack Svelte, TypeScript, Fetch API.</description>
+    </item>
+    
+  </channel>
+</rss>

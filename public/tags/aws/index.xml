@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aws on Anto Mathew - Portfolio</title>
+    <link>https://anto-mathew.github.io/tags/aws/</link>
+    <description>Recent content in aws on Anto Mathew - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://anto-mathew.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker &amp; Kubernetes Deployment – DevOps Setup</title>
+      <link>https://anto-mathew.github.io/projects/kubernetes-devops/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://anto-mathew.github.io/projects/kubernetes-devops/</guid>
+      <description>Overview A fully containerized DevOps environment used to deploy modern PHP + Node + React applications to AWS.
+Features Single Docker image containing Nginx + PHP + MySQL (local dev) Kubernetes manifests for deployments &amp;amp; services GitLab CI/CD pipeline for automated deployment to EC2 Makefile for: Composer install Build Deploy Terraform optional for infrastructure provisioning Responsibilities Built Dockerfile with optimized layers Configured Kubernetes deployment &amp;amp; service YAML Added Nginx reverse proxy rules Created GitLab CI pipeline for build → push → deploy Deployed to AWS EC2 via kubectl Tech Stack Docker, Kubernetes, AWS EC2, GitLab CI/CD, Makefile, Nginx.</description>
+    </item>
+    
+  </channel>
+</rss>

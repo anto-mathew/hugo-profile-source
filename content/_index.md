@@ -1,6 +1,6 @@
 ---
-title: "Home"
-date: 2024-01-01
+title: "About Me"
+date: 2025-12-01
 tags: []
 ---
 

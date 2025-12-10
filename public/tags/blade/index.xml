@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blade on Anto Mathew - Portfolio</title>
+    <link>https://anto-mathew.github.io/tags/blade/</link>
+    <description>Recent content in blade on Anto Mathew - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://anto-mathew.github.io/tags/blade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WordPress Bedrock &#43; Sage Theme Website</title>
+      <link>https://anto-mathew.github.io/projects/wordpress-bedrock-sage/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://anto-mathew.github.io/projects/wordpress-bedrock-sage/</guid>
+      <description>Overview A full WordPress website built using the Bedrock structure and the Sage Blade-based theme to achieve a modern, modular, and secure development workflow.
+Features Blade templating system Composer-managed WordPress REST API with custom fields Custom menu click tracking Advanced ACF + REST integration Clean MVC-like folder structure Responsibilities Extended REST API responses Built custom post types and fields Implemented frontend behaviour with JS tracking Integrated Sage templates with Blade Setup Bedrock environment for both local and production Tech Stack WordPress Bedrock, Sage, PHP, Composer, Blade, JavaScript.</description>
+    </item>
+    
+  </channel>
+</rss>

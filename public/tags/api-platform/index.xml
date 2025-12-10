@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>api-platform on Anto Mathew - Portfolio</title>
+    <link>https://anto-mathew.github.io/tags/api-platform/</link>
+    <description>Recent content in api-platform on Anto Mathew - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://anto-mathew.github.io/tags/api-platform/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Symfony Microservices Architecture</title>
+      <link>https://anto-mathew.github.io/projects/symfony-microservices/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://anto-mathew.github.io/projects/symfony-microservices/</guid>
+      <description>Overview A complete microservices-based backend platform built with Symfony, using API Platform, DDD, CQRS, and JWT authentication.
+Designed for high scalability, modularity, and real-world enterprise workflows.
+Key Features Microservice separation: Auth, User, Employee, Department JWT-based authentication &amp;amp; role authorization Domain-driven folder structure Event-driven communication (RabbitMQ optional) Fully containerized using Docker API documentation auto-generated via Swagger / API Platform Database migrations using Doctrine Responsibilities Designed entire microservice architecture Implemented secure authentication service Built admin dashboard APIs for employee creation Implemented service-to-service communication Set up CI/CD pipeline for deployment Tech Stack Symfony 7, PHP 8.</description>
+    </item>
+    
+  </channel>
+</rss>

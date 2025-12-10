@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rest-api on Anto Mathew - Portfolio</title>
+    <link>https://anto-mathew.github.io/tags/rest-api/</link>
+    <description>Recent content in rest-api on Anto Mathew - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://anto-mathew.github.io/tags/rest-api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>React-Based Investor Relations Website</title>
+      <link>https://anto-mathew.github.io/projects/react-ir-website/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://anto-mathew.github.io/projects/react-ir-website/</guid>
+      <description>Overview A modern React.js Investor Relations (IR) website for corporate financial reporting, regulatory disclosures, and investor communications.
+Features Dynamic pages generated using JSON routing Reusable components for results, financial statements, filings API integrated for disclosures such as: Annual Reports Earnings Releases Press Announcements SEO-ready &amp;amp; mobile-optimized layout Light and fast UI using modern React hooks Responsibilities Architected the full UI component system Implemented routing using JSON-driven configuration Integrated with backend IR API Created reusable templates for financial widgets Tech Stack React.</description>
+    </item>
+    
+  </channel>
+</rss>
