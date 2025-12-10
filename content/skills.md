@@ -1,40 +1,38 @@
 ---
 title: "Skills"
-layout: "skills"
+date: 2024-01-01
+tags: []
 ---
 
-### 💻 Programming
-PHP 7/8, JavaScript ES6+, TypeScript, SQL, Shell Scripting
+## Core Skills
 
-### 🧰 Frameworks & Libraries
-Symfony, CodeIgniter, React, Svelte, Node.js, jQuery, API Platform
+### Backend Development
+- PHP 8+, Symfony 6/7  
+- API Platform  
+- Laravel  
+- Node.js (CLI tools, automation)
 
-### ⚙ Backend Engineering
-REST APIs, Microservices, OOP, MVC, JWT/OAuth Security
+### Frontend Development
+- React.js  
+- Svelte  
+- TailwindCSS  
+- Vanilla JS, TypeScript
 
-### 🎨 Frontend
-React, Svelte, HTML5, CSS3, JavaScript, AJAX
+### DevOps & Cloud
+- Docker  
+- Kubernetes  
+- GitLab CI/CD  
+- AWS EC2  
+- Nginx reverse proxy  
+- Makefile automation
 
-### 🗄 Databases
-MySQL, PostgreSQL, MS SQL Server, Database Optimization
+### CMS / Platforms
+- WordPress Bedrock  
+- Sage Theme (Blade)
 
-### 🚀 DevOps & Cloud
-Docker, Kubernetes, GitLab CI/CD, Nginx, Apache, Cloudflare, Redis, Varnish, CDN, DNS
-
-### 🛠 Version Control & Build Tools
-Git, GitHub, GitLab, Composer, NPM
-
-### 🛒 CMS / E-commerce
-WordPress, WooCommerce, Magento 1/2, Plugin & Theme Development
-
-### 🧪 Testing & Quality
-PHPUnit, Unit Testing, Integration Testing, TDD, Code Review
-
-### ⚡ Performance
-Caching, Load Balancing, Code Refactoring, Scalability Enhancements
-
-### 🔐 Security
-JWT, OAuth, API Authentication, Security Compliance
-
-### 📋 Management
-Agile, Scrum, Kanban, Technical Leadership, Documentation
+### Additional Skills
+- Microservices  
+- JWT Authentication  
+- MySQL, MariaDB  
+- REST API Design  
+- System Architecture  
