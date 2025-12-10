@@ -1,3 +1,8 @@
+---
+title: "Projects"
+tags: []
+---
+
 # 📁 Projects Overview
 
 A curated list of my major engineering projects across Symfony Microservices, React IR platforms, Node CLI tools, WordPress Bedrock, and DevOps (Docker + Kubernetes).
