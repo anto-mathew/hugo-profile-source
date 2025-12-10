@@ -1,41 +1,65 @@
 ---
 title: "Resume"
-date: 2025-12-10
+date: 2024-01-01
 tags: []
-draft: false
-type: "resume"
 ---
 
-## ANTO MATHEW
+# 📄 Resume – Anto Mathew
 
-Senior Software Engineer with 14+ years delivering high-impact digital solutions...
+## 🧑‍💻 Summary
+PHP/Symfony developer with strong experience in backend development, microservices, API Platform, DevOps basics, React/Svelte UI work, and enterprise WordPress (Bedrock + Sage). Strong interest in automation using Node.js and Kubernetes.
 
-### Core Competencies
-- PHP 7/8, JavaScript (ES6+), TypeScript, SQL, Shell
-- Symfony, CodeIgniter, Node.js, API Platform
-- Docker, Kubernetes, GitLab CI/CD, Nginx, Redis, Varnish
-- MySQL, PostgreSQL, Microsoft SQL Server
-- PHPUnit, TDD, Performance Tuning
+---
 
-### Professional Experience
-**Senior Software Engineer - PHP** — EQS Group, Kerala, India  
-Oct 2018 - Present  
-- Lead development and delivery of enterprise-grade PHP/Symfony applications serving 50,000+ global users...
-(Trimmed in preview — include full bullets from your CV)
+## 💼 Work Experience
 
-**Software Engineer – PHP** — SBL Knowledge Services  
-Feb 2016 - Sep 2018  
-- (include bullets)
+### **EQS Group**
+**Senior Developer — (2023–Present)**  
+- Built Symfony microservices  
+- Implemented JWT-based APIs  
+- Migrated enterprise components  
+- Worked on React-based IR website  
+- Built internal Node.js CLI tools  
+- Integrated Docker + Kubernetes workflows  
 
-**PHP Project Manager & Developer** — Unitybees  
-Dec 2014 - Apr 2016
+### **WUB24**
+**Full-stack Developer — (2021–2023)**  
+- REST APIs  
+- Admin panels  
+- Svelte dashboards  
+- Optimized SQL  
+- Automated cron-based tasks  
 
-**PHP / Magento Developer** — WUB24 International (Remote)  
-Jan 2014 - Sep 2014
+### **SBL**
+**PHP Developer — (2019–2021)**  
+- WordPress development  
+- Custom plugins  
+- Bedrock/Sage sites  
 
-**Software Programmer (NIC Project)** — High Court of Kerala  
-Jun 2012 - Jan 2014
+---
 
-### Education
-- MCA, MG University (2009 - 2012)  
-- B.Sc Physics, Kerala University (2006 - 2009)
+## 🚀 Skills
+
+### Backend
+PHP 8+, Symfony, API Platform, Laravel, Node.js
+
+### Frontend
+React, Svelte, TypeScript, Tailwind
+
+### DevOps
+Docker, Kubernetes, Makefile automation, GitLab CI/CD, AWS EC2
+
+### Others
+MySQL, REST APIs, JWT auth, WordPress Bedrock, Sage (Blade)
+
+---
+
+## 🎓 Education
+BSc Computer Science
+
+---
+
+## 📬 Contact
+- GitHub: **anto-mathew**
+- Email: *your email here*
+- Portfolio: *your GitHub Pages site*

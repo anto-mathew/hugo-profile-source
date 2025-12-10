@@ -1,14 +1,20 @@
 ---
-title: "Anto Mathew"
-animate: true
-description: "Senior Software Engineer – PHP | TypeScript | React | DevOps | Microservices"
-image: "/images/profile.jpg"
+title: "Home"
+date: 2024-01-01
+tags: []
 ---
 
-## 👋 Hi, I'm Anto Mathew
+# 👋 Hi, I'm Anto Mathew
 
-Senior Software Engineer with **14+ years of experience** architecting scalable systems, modernizing legacy applications, and building end-to-end digital platforms using **PHP, Symfony, React, TypeScript, Svelte, Node.js, Docker & Kubernetes**.
+A **PHP/Symfony Developer**, **Microservices Engineer**, and **DevOps learner** building modern, optimized systems with:
 
-I specialize in designing efficient microservices, building reusable frontend architectures, optimizing performance and automating delivery pipelines using CI/CD & DevOps tools.
+- Symfony + API Platform  
+- React & Svelte  
+- WordPress Bedrock + Sage  
+- Docker & Kubernetes  
+- Node.js CLI tools  
+- AWS EC2 + GitLab CI/CD  
 
-Passionate about **AI-driven development**, engineering automation, and innovative architecture design.
+I specialize in creating enterprise-level applications, internal tools, IR websites, and high-performance web solutions.
+
+Check out my projects and experience below!
