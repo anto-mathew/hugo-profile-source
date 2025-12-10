@@ -1,8 +1,14 @@
 ---
-title: "AI-driven Development Tool"
-date: 2024-10-01
-draft: false
-summary: "Tool to speed up development by automating UI generation and code quality checks."
+title: "AI-Driven Development Automation Tool"
+tags: ["AI", "Node.js", "Automation"]
+description: "An AI-powered tool that generates UI code, improves development workflow and automates repetitive engineering tasks."
 ---
 
-Built an AI-driven development tool that automates UI generation, improves code quality and increases developer productivity. Tech: Node.js, Docker, Svelte.
+Built an AI-driven Python/Node.js tool to automate:
+
+- UI generation
+- Code refactoring suggestions
+- Component extraction
+- Repetitive developer tasks
+
+Saved **15+ hours per week** for the development team and increased code quality.
