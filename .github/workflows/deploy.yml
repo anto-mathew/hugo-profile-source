@@ -3,27 +3,36 @@ name: Build and Deploy Hugo site
 on:
   push:
     branches:
-      - main
+      - main  # triggers on push to main branch
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
+
     steps:
+      # 1️⃣ Checkout the Hugo source repo
       - name: Checkout source
         uses: actions/checkout@v4
+        with:
+          submodules: true  # ensures theme submodules are cloned
 
+      # 2️⃣ Setup Hugo (Extended version for PaperMod)
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.146.0'
 
-      - name: Build
+      # 3️⃣ Build the Hugo site
+      - name: Build site
         run: hugo --minify
 
-      - name: Deploy to GitHub Pages repo
+      # 4️⃣ Deploy to your GitHub Pages repo
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          publish_branch: main
+          publish_dir: ./public          # Hugo output folder
+          publish_branch: main           # branch of deployment repo
           publish_repo: anto-mathew/anto-mathew.github.io
+          keep_files: false             # replace old files
+          force_orphan: true            # avoids history conflicts
