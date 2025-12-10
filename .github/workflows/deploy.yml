@@ -3,7 +3,7 @@ name: Build and Deploy Hugo site
 on:
   push:
     branches:
-      - main  # triggers on push to main brancha
+      - main  # triggers on push to main branch
 
 jobs:
   build-and-deploy:
@@ -26,12 +26,13 @@ jobs:
       - name: Build site
         run: hugo --minify
 
-      # 4️⃣ Deploy to your GitHub Pages repo
+      # 4️⃣ Deploy to GitHub Pages using Deploy Key
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          deploy_key: ${{ secrets.DEPLOY_KEY }}  # your private key secret
           publish_dir: ./public
           publish_branch: main
           external_repository: anto-mathew/anto-mathew.github.io
-          force_orphan: true          # avoids history conflicts
+          force_orphan: true
+          keep_files: false
