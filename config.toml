@@ -1,8 +1,11 @@
 baseURL = "https://anto-mathew.github.io/"
 languageCode = "en-us"
 title = "Anto Mathew"
+
 theme = "PaperMod"
-pagination.pagerSize = 10
+
+[pagination]
+  pagerSize = 10
 
 # PaperMod params
 [params]
