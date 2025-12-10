@@ -1,3 +1,19 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://anto-mathew.github.io/"
+languageCode = "en-us"
+title = "Anto Mathew"
+theme = "PaperMod"
+
+paginate = 5
+
+[params]
+  author = "Anto Mathew"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/anto-mathew"
