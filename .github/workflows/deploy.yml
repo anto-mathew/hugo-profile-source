@@ -32,7 +32,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public          # Hugo output folder
-          publish_branch: main           # branch of deployment repo
-          publish_repo: anto-mathew/anto-mathew.github.io
+          publish_branch: main                # main branch of deployment repo
+          publish_repo: anto-mathew/anto-mathew.github.io  # must be a separate repo from the source repo
           keep_files: false             # replace old files
           force_orphan: true            # avoids history conflicts
