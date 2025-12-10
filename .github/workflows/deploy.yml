@@ -3,7 +3,7 @@ name: Build and Deploy Hugo site
 on:
   push:
     branches:
-      - main  # triggers on push to main branch
+      - main  # triggers on push to main brancha
 
 jobs:
   build-and-deploy:
